@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adeola-praise
-- 👀 I’m interested in Extended Reality
-- 🌱 I’m currently learning XR Deveelopment
+- 👀 I’m interested in Extended Reality and Software Engineering 
+- 🌱 I’m currently learning XR Development
 - 💞️ I’m looking to collaborate on XR projects
 - 📫 How to reach me ---> adeolapraise02@gmail.com
 
