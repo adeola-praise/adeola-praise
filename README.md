@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adeola-praise
-- 👀 I’m interested in Extended Reality and Software Engineering 
-- 🌱 I’m currently learning XR Development
-- 💞️ I’m looking to collaborate on XR projects
+- 👀 I’m interested in Extended Reality and Full Stack Web Development
+- 🌱 I’m currently learning XR Development and Web Development
+- 💞️ I’m looking to collaborate on XR and Web Dev projects
 - 📫 How to reach me ---> adeolapraise02@gmail.com
 
 <!---
