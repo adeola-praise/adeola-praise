@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adeola-praise
-- 👀 I’m interested in Extended Reality and Full Stack Web Development
-- 🌱 I’m currently learning XR Development and Web Development
-- 💞️ I’m looking to collaborate on XR and Web Dev projects
+- 👀 I’m interested in Full Stack Web Development and Cloud/Devops Engineering
+- 🌱 I’m currently learning cloud/devops technologies
+- 💞️ I’m looking to collaborate on web, cloud and devops projects
 - 📫 How to reach me ---> adeolapraise02@gmail.com
 
 <!---
